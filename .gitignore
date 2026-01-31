@@ -2,4 +2,5 @@ archive
 .DS_Store
 __pycache__/
 venv/
-modello*
+modello_spotify_LGBMRegressor.pkl
+modello_spotify_randomforest.pkl
